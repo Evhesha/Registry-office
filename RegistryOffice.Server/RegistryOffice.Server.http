@@ -1,0 +1,6 @@
+@RegistryOffice.Server_HostAddress = http://localhost:5261
+
+GET {{RegistryOffice.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

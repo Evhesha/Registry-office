@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:60371",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Server\\..\\registryoffice.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

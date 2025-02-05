@@ -1,0 +1,6 @@
+# .gitignore
+.vs/
+*.vsidx
+*.vscode
+*.user
+*.suo

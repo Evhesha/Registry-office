@@ -1,0 +1,1 @@
+C:\Medvedskii\Development\C#\RegistryOffice\registryoffice.client\obj\Debug\registryoffice.client.esproj.CoreCompileInputs.cache
