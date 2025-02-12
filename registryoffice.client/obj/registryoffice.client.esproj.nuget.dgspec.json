@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\registryoffice.client\\registryoffice.client.esproj": {}
+  },
+  "projects": {
+    "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\registryoffice.client\\registryoffice.client.esproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\registryoffice.client\\registryoffice.client.esproj",
+        "projectName": "registryoffice.client",
+        "projectPath": "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\registryoffice.client\\registryoffice.client.esproj",
+        "packagesPath": "C:\\Users\\EvGenii\\.nuget\\packages\\",
+        "outputPath": "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\registryoffice.client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EvGenii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-none": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-none": {
+          "targetAlias": "net6.0"
+        }
+      }
+    }
+  }
+}

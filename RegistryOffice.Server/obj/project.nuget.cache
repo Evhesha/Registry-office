@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NvQ9QsQZ5Fk=",
+  "dgSpecHash": "ICapjE6GsLA=",
   "success": true,
   "projectFilePath": "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Server\\RegistryOffice.Server.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\EvGenii\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.12\\microsoft.aspnetcore.spaproxy.8.0.12.nupkg.sha512",
+    "C:\\Users\\EvGenii\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.13\\microsoft.aspnetcore.spaproxy.8.0.13.nupkg.sha512",
     "C:\\Users\\EvGenii\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\EvGenii\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
     "C:\\Users\\EvGenii\\.nuget\\packages\\swashbuckle.aspnetcore\\7.2.0\\swashbuckle.aspnetcore.7.2.0.nupkg.sha512",

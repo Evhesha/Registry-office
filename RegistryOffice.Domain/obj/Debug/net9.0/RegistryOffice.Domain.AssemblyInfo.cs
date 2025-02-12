@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("RegistryOffice.Server")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RegistryOffice.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ba0107d291a4410c1587628e35ba9b71b7f670f")]
-[assembly: System.Reflection.AssemblyProductAttribute("RegistryOffice.Server")]
-[assembly: System.Reflection.AssemblyTitleAttribute("RegistryOffice.Server")]
+[assembly: System.Reflection.AssemblyProductAttribute("RegistryOffice.Domain")]
+[assembly: System.Reflection.AssemblyTitleAttribute("RegistryOffice.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

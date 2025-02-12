@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Server\\RegistryOffice.Server.csproj": {}
+    "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Application\\RegistryOffice.Application.csproj": {}
   },
   "projects": {
-    "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Server\\RegistryOffice.Server.csproj": {
+    "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Application\\RegistryOffice.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Server\\RegistryOffice.Server.csproj",
-        "projectName": "RegistryOffice.Server",
-        "projectPath": "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Server\\RegistryOffice.Server.csproj",
+        "projectUniqueName": "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Application\\RegistryOffice.Application.csproj",
+        "projectName": "RegistryOffice.Application",
+        "projectPath": "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Application\\RegistryOffice.Application.csproj",
         "packagesPath": "C:\\Users\\EvGenii\\.nuget\\packages\\",
-        "outputPath": "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Server\\obj\\",
+        "outputPath": "C:\\Medvedskii\\Development\\C#\\RegistryOffice\\RegistryOffice.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -47,18 +47,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.SpaProxy": {
-              "target": "Package",
-              "version": "[8.*-*, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[7.2.0, )"
-            }
-          },
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -71,9 +61,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
