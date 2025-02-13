@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegistryOffice.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ba0107d291a4410c1587628e35ba9b71b7f670f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3225ae1e877cfd5b8840675322fd36b03d2dd74a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegistryOffice.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegistryOffice.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

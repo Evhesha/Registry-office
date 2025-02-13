@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oAmtICj6d+bTw5/gBZigfC06e1hKvc50HkJ4g/KQB8c=",
+  "Hash": "P6apsGrbqZFkJCNXxndK9XAJQHCqvOn+Ggqo5FOzhxE=",
   "Source": "RegistryOffice.Server",
   "BasePath": "_content/RegistryOffice.Server",
   "Mode": "Default",
@@ -12,10 +12,10 @@
       "Source": "registryoffice.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
       "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
       "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
   "DiscoveryPatterns": [],

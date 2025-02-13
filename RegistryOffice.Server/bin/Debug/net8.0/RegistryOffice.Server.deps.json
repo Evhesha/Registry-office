@@ -8,18 +8,18 @@
     ".NETCoreApp,Version=v8.0": {
       "RegistryOffice.Server/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.SpaProxy": "8.0.12",
+          "Microsoft.AspNetCore.SpaProxy": "8.0.13",
           "Swashbuckle.AspNetCore": "7.2.0"
         },
         "runtime": {
           "RegistryOffice.Server.dll": {}
         }
       },
-      "Microsoft.AspNetCore.SpaProxy/8.0.12": {
+      "Microsoft.AspNetCore.SpaProxy/8.0.13": {
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {
-            "assemblyVersion": "8.0.12.0",
-            "fileVersion": "8.0.1224.60312"
+            "assemblyVersion": "8.0.13.0",
+            "fileVersion": "8.0.1325.6610"
           }
         }
       },
@@ -78,12 +78,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.AspNetCore.SpaProxy/8.0.12": {
+    "Microsoft.AspNetCore.SpaProxy/8.0.13": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-3FCqH7rdZVENLCSbBwiX9K034j5fUbqh8qk14Etj4pROGZGqH/nzlFZ+LdT/S2MtpWJSOUJLTT72Xk/Jf6+UVw==",
-      "path": "microsoft.aspnetcore.spaproxy/8.0.12",
-      "hashPath": "microsoft.aspnetcore.spaproxy.8.0.12.nupkg.sha512"
+      "sha512": "sha512-MwrXZfC53RySu6fnXeL6+l8JaiuHs1c3oruvs1ZzKCKH6vJ4MR0zLuGETb37kiS9wzIVXQCtqgR5Bsf5Dzm1+Q==",
+      "path": "microsoft.aspnetcore.spaproxy/8.0.13",
+      "hashPath": "microsoft.aspnetcore.spaproxy.8.0.13.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",

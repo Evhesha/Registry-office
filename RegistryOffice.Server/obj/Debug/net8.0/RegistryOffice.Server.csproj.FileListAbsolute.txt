@@ -30,10 +30,10 @@ C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8
 C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RegistryOffice.Server.props
 C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RegistryOffice.Server.props
 C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8.0\Registry.F11BFAAC.Up2Date
 C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8.0\RegistryOffice.Server.dll
 C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8.0\refint\RegistryOffice.Server.dll
 C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8.0\RegistryOffice.Server.pdb
 C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8.0\RegistryOffice.Server.genruntimeconfig.cache
 C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8.0\ref\RegistryOffice.Server.dll
+C:\Medvedskii\Development\C#\RegistryOffice\RegistryOffice.Server\obj\Debug\net8.0\RegistryOffice.Server.sourcelink.json
