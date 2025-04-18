@@ -1,0 +1,16 @@
+C:\Users\EvGenii\source\repos\BD6\Report\bin\Debug\net8.0-windows\Report.exe
+C:\Users\EvGenii\source\repos\BD6\Report\bin\Debug\net8.0-windows\Report.deps.json
+C:\Users\EvGenii\source\repos\BD6\Report\bin\Debug\net8.0-windows\Report.runtimeconfig.json
+C:\Users\EvGenii\source\repos\BD6\Report\bin\Debug\net8.0-windows\Report.dll
+C:\Users\EvGenii\source\repos\BD6\Report\bin\Debug\net8.0-windows\Report.pdb
+C:\Users\EvGenii\source\repos\BD6\Report\obj\Debug\net8.0-windows\Report.Form1.resources
+C:\Users\EvGenii\source\repos\BD6\Report\obj\Debug\net8.0-windows\Report.csproj.GenerateResource.cache
+C:\Users\EvGenii\source\repos\BD6\Report\obj\Debug\net8.0-windows\Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvGenii\source\repos\BD6\Report\obj\Debug\net8.0-windows\Report.AssemblyInfoInputs.cache
+C:\Users\EvGenii\source\repos\BD6\Report\obj\Debug\net8.0-windows\Report.AssemblyInfo.cs
+C:\Users\EvGenii\source\repos\BD6\Report\obj\Debug\net8.0-windows\Report.csproj.CoreCompileInputs.cache
+C:\Users\EvGenii\source\repos\BD6\Report\obj\Debug\net8.0-windows\Report.dll
+C:\Users\EvGenii\source\repos\BD6\Report\obj\Debug\net8.0-windows\refint\Report.dll
+C:\Users\EvGenii\source\repos\BD6\Report\obj\Debug\net8.0-windows\Report.pdb
+C:\Users\EvGenii\source\repos\BD6\Report\obj\Debug\net8.0-windows\Report.genruntimeconfig.cache
+C:\Users\EvGenii\source\repos\BD6\Report\obj\Debug\net8.0-windows\ref\Report.dll

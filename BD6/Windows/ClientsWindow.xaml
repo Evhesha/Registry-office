@@ -1,0 +1,27 @@
+﻿<Window x:Class="BD6.Windows.ClientsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BD6.Windows"
+        mc:Ignorable="d"
+        Title="ClientsWindow" Height="470" Width="730" ResizeMode="NoResize" Background="LightSteelBlue">
+    <Grid>
+        <DataGrid Name="ClientsDataGrid" Loaded="ClientsDataGrid_Loaded" FontSize="14" Margin="0,0,262,0"/>
+
+        <Button Name="ReadButton" Content="Read" HorizontalAlignment="Left" Height="36" Margin="478,218,0,0" VerticalAlignment="Top" Width="91" Background="Azure" Click="ReadButton_Click"/>
+        <Button Name="CancelButton" Content="Cancel" HorizontalAlignment="Left" Height="36" Margin="478,310,0,0" VerticalAlignment="Top" Width="91" Background="Tomato" Click="CancelButton_Click"/>
+        <Button Name="DeleteButton" Content="Delete" HorizontalAlignment="Left" Height="36" Margin="478,263,0,0" VerticalAlignment="Top" Width="91" Background="Tomato" Click="DeleteButton_Click"/>
+        <Button Name="SaveButton" Content="Save" HorizontalAlignment="Left" Height="36" Margin="478,358,0,0" VerticalAlignment="Top" Width="91" Background="Azure" Click="SaveButton_Click"/>
+
+        <Button Name="FirstButton" Content="First" HorizontalAlignment="Left" Height="36" Margin="591,218,0,0" VerticalAlignment="Top" Width="91" Background="Azure" Click="FirstButton_Click"/>
+        <Button Name="NextButton" Content="Next ->" HorizontalAlignment="Left" Height="36" Margin="591,263,0,0" VerticalAlignment="Top" Width="91" Background="Azure" Click="NextButton_Click"/>
+        <Button Name="PreviousButton" Content="Previous -" HorizontalAlignment="Left" Height="36" Margin="591,310,0,0" VerticalAlignment="Top" Width="91" Background="Azure" Click="PreviousButton_Click"/>
+        <Button Name="LastButton" Content="Last" HorizontalAlignment="Left" Height="36" Margin="591,358,0,0" VerticalAlignment="Top" Width="91" Background="Azure" Click="LastButton_Click"/>
+
+        <Image Source="/pictures/clients.png" Margin="464,4,15,310"></Image>
+        <Label Content="Clients" HorizontalAlignment="Left" Margin="552,128,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Black"/>
+
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="224" Margin="470,192,0,0" VerticalAlignment="Top" Width="235"/>
+    </Grid>
+</Window>

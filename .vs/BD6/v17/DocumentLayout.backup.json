@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EvGenii\\source\\repos\\BD6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\serviceswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\serviceswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\serviceswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\serviceswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\registrationswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\registrationswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\registrationswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\registrationswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\registrarswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\registrarswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\registrarswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\registrarswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\filterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\filterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\filterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\filterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\clientswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\clientswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\windows\\clientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\windows\\clientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\db_commands\\servicescommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\db_commands\\servicescommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\db_commands\\registrationcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\db_commands\\registrationcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\db_commands\\clientcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\db_commands\\clientcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\db_commands\\registrarscommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\db_commands\\registrarscommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\pictures\\report.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\pictures\\report.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|c:\\users\\evgenii\\source\\repos\\bd6\\bd6\\bd6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A6DC4B1-85C0-4D06-8B9C-20AE7715A7DF}|BD6\\BD6.csproj|solutionrelative:bd6\\bd6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ServicesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BD6\\Windows\\ServicesWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ServicesWindow.xaml.cs",
+              "RelativeToolTip": "BD6\\Windows\\ServicesWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:05.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ServicesWindow.xaml",
+              "RelativeDocumentMoniker": "BD6\\Windows\\ServicesWindow.xaml",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ServicesWindow.xaml",
+              "RelativeToolTip": "BD6\\Windows\\ServicesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T13:50:42.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BD6\\Windows\\ReportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ReportWindow.xaml.cs*",
+              "RelativeToolTip": "BD6\\Windows\\ReportWindow.xaml.cs*",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAiwLoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:44:10.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ReportWindow.xaml",
+              "RelativeDocumentMoniker": "BD6\\Windows\\ReportWindow.xaml",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ReportWindow.xaml",
+              "RelativeToolTip": "BD6\\Windows\\ReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-06T08:31:09.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\RegistrationsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BD6\\Windows\\RegistrationsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\RegistrationsWindow.xaml.cs",
+              "RelativeToolTip": "BD6\\Windows\\RegistrationsWindow.xaml.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAqwLIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:31:49.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\RegistrationsWindow.xaml",
+              "RelativeDocumentMoniker": "BD6\\Windows\\RegistrationsWindow.xaml",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\RegistrationsWindow.xaml",
+              "RelativeToolTip": "BD6\\Windows\\RegistrationsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T13:51:07.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrarsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\RegistrarsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BD6\\Windows\\RegistrarsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\RegistrarsWindow.xaml.cs",
+              "RelativeToolTip": "BD6\\Windows\\RegistrarsWindow.xaml.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAPIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:31:37.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrarsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\RegistrarsWindow.xaml",
+              "RelativeDocumentMoniker": "BD6\\Windows\\RegistrarsWindow.xaml",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\RegistrarsWindow.xaml",
+              "RelativeToolTip": "BD6\\Windows\\RegistrarsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T13:48:51.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\FilterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BD6\\Windows\\FilterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\FilterWindow.xaml.cs",
+              "RelativeToolTip": "BD6\\Windows\\FilterWindow.xaml.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAqwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:31:20.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\FilterWindow.xaml",
+              "RelativeDocumentMoniker": "BD6\\Windows\\FilterWindow.xaml",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\FilterWindow.xaml",
+              "RelativeToolTip": "BD6\\Windows\\FilterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T19:22:15.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ClientsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BD6\\Windows\\ClientsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ClientsWindow.xaml.cs",
+              "RelativeToolTip": "BD6\\Windows\\ClientsWindow.xaml.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAqwMIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:30:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ClientsWindow.xaml",
+              "RelativeDocumentMoniker": "BD6\\Windows\\ClientsWindow.xaml",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\Windows\\ClientsWindow.xaml",
+              "RelativeToolTip": "BD6\\Windows\\ClientsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T13:47:20.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BD6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BD6\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:40:18.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BD6\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\MainWindow.xaml",
+              "RelativeToolTip": "BD6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T13:40:30.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServicesCommands.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\DB_Commands\\ServicesCommands.cs",
+              "RelativeDocumentMoniker": "BD6\\DB_Commands\\ServicesCommands.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\DB_Commands\\ServicesCommands.cs",
+              "RelativeToolTip": "BD6\\DB_Commands\\ServicesCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:33:19.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationCommands.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\DB_Commands\\RegistrationCommands.cs",
+              "RelativeDocumentMoniker": "BD6\\DB_Commands\\RegistrationCommands.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\DB_Commands\\RegistrationCommands.cs",
+              "RelativeToolTip": "BD6\\DB_Commands\\RegistrationCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:01:38.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientCommands.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\DB_Commands\\ClientCommands.cs",
+              "RelativeDocumentMoniker": "BD6\\DB_Commands\\ClientCommands.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\DB_Commands\\ClientCommands.cs",
+              "RelativeToolTip": "BD6\\DB_Commands\\ClientCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:27:25.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistrarsCommands.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\DB_Commands\\RegistrarsCommands.cs",
+              "RelativeDocumentMoniker": "BD6\\DB_Commands\\RegistrarsCommands.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\DB_Commands\\RegistrarsCommands.cs",
+              "RelativeToolTip": "BD6\\DB_Commands\\RegistrarsCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:32:54.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "report.png -  [Russian (Russia)] - PNG [498x512, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\pictures\\report.png",
+              "RelativeDocumentMoniker": "BD6\\pictures\\report.png",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\pictures\\report.png -  [Russian (Russia)] - PNG [498x512, 32 bit, PNG]",
+              "RelativeToolTip": "BD6\\pictures\\report.png -  [Russian (Russia)] - PNG [498x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-06T08:36:10.197Z",
+              "EditorCaption": " -  [Russian (Russia)] - PNG [498x512, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BD6\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\AssemblyInfo.cs",
+              "RelativeToolTip": "BD6\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:35:30.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-20T13:10:59.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BD6.csproj",
+              "DocumentMoniker": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\BD6.csproj",
+              "RelativeDocumentMoniker": "BD6\\BD6.csproj",
+              "ToolTip": "C:\\Users\\EvGenii\\source\\repos\\BD6\\BD6\\BD6.csproj",
+              "RelativeToolTip": "BD6\\BD6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T09:11:07.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

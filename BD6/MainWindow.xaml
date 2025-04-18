@@ -1,0 +1,44 @@
+﻿<Window x:Class="BD6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BD6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="500" ResizeMode="NoResize">
+    <Grid>
+        <ToolBar HorizontalAlignment="Left" Height="29" Margin="-3,0,0,0" VerticalAlignment="Top" Width="503">
+            <ToggleButton Name="TablesButton" Click="TablesButton_Click" Height="20" Width="22" ToolTip="Tables">
+                <Image Source="pictures\table.png"/>
+                <ToggleButton.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Clients" Click="ClientsWindow_Click"/>
+                        <MenuItem Header="Registrars" Click="RegistrarsWindow_Click"/>
+                        <MenuItem Header="Registrations" Click="RegistrationsWindow_Click"/>
+                        <MenuItem Header="Services" Click="ServicesWindow_Click"/>
+                    </ContextMenu>
+                </ToggleButton.ContextMenu>
+            </ToggleButton>
+            <Separator/>
+            <ToggleButton Name="ReportsButton" Height="20" Width="22" ToolTip="Author" Checked="ReportsButton_Checked">
+                <Image Source="pictures\author.png"/>
+            </ToggleButton>
+            <Separator/>
+            <ToggleButton Name="AboutProgramButton" Height="20" Width="22" ToolTip="Help" Checked="AboutProgramButton_Checked">
+                <Image Source="/pictures/about_program.png"/>
+            </ToggleButton>
+            <Separator/>
+        </ToolBar>
+        
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="293" Margin="29,55,0,0" VerticalAlignment="Top" Width="191"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="76" Margin="246,273,0,0" VerticalAlignment="Top" Width="191"/>
+
+        <Button Content="Clients" HorizontalAlignment="Left" Height="46" Margin="53,78,0,0" VerticalAlignment="Top" Width="144" Click="ClientsWindow_Click"/>
+        <Button Content="Registrars" HorizontalAlignment="Left" Height="44" Margin="53,146,0,0" VerticalAlignment="Top" Width="143" Click="RegistrarsWindow_Click"/>
+        <Button Content="Registrations" HorizontalAlignment="Left" Height="45" Margin="53,214,0,0" VerticalAlignment="Top" Width="143" Click="RegistrationsWindow_Click"/>
+        <Button Content="Services" HorizontalAlignment="Left" Height="45" Margin="53,282,0,0" VerticalAlignment="Top" Width="143" Click="ServicesWindow_Click"/>
+        <Button Name="ExitAppButton" Content="Exit" HorizontalAlignment="Left" Height="38" Margin="273,293,0,0" VerticalAlignment="Top" Width="141" Background="Tomato" Click="ExitAppButton_Click"/>
+
+        <Image Source="/pictures/registry_office.png" Margin="225,29,34,136"></Image>
+    </Grid>
+</Window>
